@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DamenEpayment-task/static/css/main.88567edf.css",
+    "main.js": "/DamenEpayment-task/static/js/main.f820724d.js",
+    "static/js/453.b956e27e.chunk.js": "/DamenEpayment-task/static/js/453.b956e27e.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/DamenEpayment-task/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/Poppins-Regular.ttf": "/DamenEpayment-task/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/DamenEpayment-task/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/DamenEpayment-task/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Black.ttf": "/DamenEpayment-task/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/revicons.eot": "/DamenEpayment-task/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/DamenEpayment-task/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/DamenEpayment-task/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/DamenEpayment-task/index.html",
+    "main.88567edf.css.map": "/DamenEpayment-task/static/css/main.88567edf.css.map",
+    "main.f820724d.js.map": "/DamenEpayment-task/static/js/main.f820724d.js.map",
+    "453.b956e27e.chunk.js.map": "/DamenEpayment-task/static/js/453.b956e27e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88567edf.css",
+    "static/js/main.f820724d.js"
+  ]
+}
