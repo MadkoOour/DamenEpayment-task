@@ -1,0 +1,34 @@
+.landing-page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-page .image{
+    margin-bottom: 3rem;
+}
+
+.landing-page .image img{
+    width: 350px;
+}
+
+.landing-page .progress{
+width: 400px;
+max-width: 100%;
+background-color: #D9D9D9;
+overflow: hidden;
+}
+
+.landing-page .progress-bar{
+    background-color: #353D6E;
+    animation: extended ease-in-out 3s;
+    width: 100%;
+}
+
+@keyframes extended{
+    0%{width: 0;}
+    100%{width: 100%;}
+}
