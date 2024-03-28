@@ -53,6 +53,9 @@ p{
   transition: 0.3s;
 }
 
+.row{
+--bs-gutter-x: 0rem;
+}
 .heart-icon:hover{
   color: rgba(165, 23, 23, 0.602);
 }

@@ -153,7 +153,6 @@ section.products-block .heading{
     main .main-section{
         display: flex;
         gap: 3rem;
-        padding: 0 5%;
     }
 
     main .main-section .right-section{
@@ -171,7 +170,6 @@ section.products-block .heading{
         display: flex;
         flex-direction: column;
         gap: 3rem;
-        padding: 0 7%;
     }
 
     main .main-section .right-section{
@@ -182,5 +180,17 @@ section.products-block .heading{
     main .main-section .right-section .description{
         width: 100%;
         margin: 0 auto;
+    }
+    
+    .right-section .actions button{
+        width: 12rem;
+    }
+
+    .path-block .path-text {
+        width: 95vw;
+        top: 50%;
+        margin-left: 0;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
 }

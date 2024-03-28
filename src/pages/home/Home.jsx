@@ -39,11 +39,10 @@ class Home extends React.Component {
             Home / Products / POS / Name Of Product
           </p>
         </div>
-
-        <main>
+        <main className="">
           <div className="main-section row">
             {/* image */}
-            <div className="left-section col-lg-6 col-sm-12 border">
+            <div className="left-section col-lg-6 col-sm-12 border ">
               <img src="./images/image 1.png" alt="product" className="" />
               <p className="sale">10% off</p>
             </div>
@@ -83,7 +82,6 @@ class Home extends React.Component {
             </div>
           </div>
         </main>
-
         <section className="products-block">
           <h1 className="heading">You May Also  Like</h1>
           <Carousel responsive={responsive}>

@@ -2,7 +2,6 @@ import React from "react";
 import "./LandingPage.css"
 class LandingPage extends React.Component {
   render() {
-    // Render any loading message or animation here
     return (
       <div className="landing-page">
         {/* image */}

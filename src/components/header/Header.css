@@ -44,7 +44,7 @@ nav .header-icon .badge{
 
 nav .cart-block {
     position: fixed;
-    right: -100%;
+    right: -150%;
     top: 80px;
     z-index: 5000;
     width: 450px;
@@ -69,6 +69,7 @@ nav .cart-block {
     nav .menu-icon{
         display: none;
     }
+
     nav .right-block-icons{
         width: 100%;
         margin: 1rem 0;
@@ -79,6 +80,11 @@ nav .cart-block {
 
 @media (max-width:768px){
     nav .cart-block {
-        top:110px;
+        top:90px;
+        width: 96%;
+        padding: 5px;
+    }
+    .cart-block.open {
+        right: 2%;
     }
 }

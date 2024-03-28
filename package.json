@@ -1,8 +1,8 @@
 {
   "name": "damen-task",
   "version": "0.1.0",
-  "homepage": "https://madkooour.github.io/DamenEpayment-task",
   "private": true,
+  "homepage": "https://madkooour.github.io/DamenEpayment-task/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
